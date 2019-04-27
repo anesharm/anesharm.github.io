@@ -50,7 +50,7 @@ Once you have installed the desktop client for your operating system, follow the
 
 3. Click **Next** to proceed. For example, see the screenshot below:
 
-  ![](Image_3.png)
+   ![](Image_3.png)
 
 4. Type the **Username** and **Password**.
 
