@@ -7,7 +7,7 @@ ownCloud is a web application that works on Linux and Unix servers. A typical in
 Here is what you need to do to set up ownCloud:
 
 1. Click the [Download](https://download.owncloud.org/download/repositories/stable/owncloud/) page and follow the instructions to install ownCloud.
->[!NOTE] It will automatically install dependencies, such as Apache, PHP, and MySQL.
+> [!NOTE] It will automatically install dependencies, such as Apache, PHP, and MySQL.
 
 2. Once the installation is complete, click [http://localhost/owncloud](http://localhost/owncloud).
 
@@ -32,7 +32,7 @@ Now you can start using ownCloud server.
 To add a user account:
 
 1. Type the **username** and **password**.
->[!NOTE] You can also assign **Groups** membership.
+> [!NOTE] You can also assign **Groups** membership.
 
 2. Click **Create**.
 > [!NOTE] Login names may contain letters (a-z, A-Z), numbers (0-9), dashes (-), underscores (\_), periods (.) and at signs (@). After creating the user, you may fill in their Full Name if it is different than the login name, or leave it for the user to complete.
@@ -46,7 +46,7 @@ Once you have installed the desktop client for your operating system, follow the
 1. Launch the ownCloud desktop client.
 
 2. In the connection wizard panel, type **Server Address**.
->[!NOTE] If you did not set up HTTPS support on your server, ensure you are using http:// and not https://.
+> [!NOTE] If you did not set up HTTPS support on your server, ensure you are using http:// and not https://.
 
 3. Click **Next** to proceed. For example, see the screenshot below:
 
